@@ -1,7 +1,7 @@
 ﻿import { useEffect, useState } from "react";
 import { useLiveVisits } from "./hooks/useLiveVisits";
 import Welcome from "./pages/Welcome";
-import Login from "./pages/Login";
+import Login from "./pages/login";
 import Patient from "./pages/Patient";
 import Reception from "./pages/Reception";
 import DisplayBoard from "./pages/DisplayBoard";
